@@ -1,19 +1,8 @@
 ---
-layout: about
+layout: single
 title: About
 permalink: /
-subtitle: First-year PhD candidate at HKUST NLP Group
-
-profile:
-  align: right
-  image: profile.png
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>Email: jliugi@connect.ust.hk</p>
-
-news: false # includes a list of news items
-selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+author_profile: true
 ---
 
 ## Biography
